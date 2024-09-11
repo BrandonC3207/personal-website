@@ -25,3 +25,14 @@ nav .nav-link:hover {
     object-position: 50% 25%;
     border-radius: 50%;
 }
+
+.footer {
+    background-color: #eaeaea; /* Light background for the footer */
+}
+
+.footer .tech-icon {
+    font-size: 36px;
+    margin: 0 15px;
+    color: #333;
+    transition: transform 0.3s ease, color 0.3s ease; /* Smooth animation */
+}
